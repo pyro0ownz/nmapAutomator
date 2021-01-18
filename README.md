@@ -66,3 +66,5 @@ _**pull requests are more than welcome :)**_
 * Properly identify url extensions "testing index extensions for code 200"
 * Add more port-based automatic recon options
 * Add an nmap progress bar
+
+#I do not personally own this tool all credit for this tool goes too 21y4d. I came across some set backs during the labtime with only being able to scan one host at a time so i added another script in order to help things along while you work on multiple boxes. 
