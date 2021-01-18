@@ -23,7 +23,7 @@ done
 
 ips=0
 counter=0
-directory="${HOME}/Desktop/scriptssploits/nmapAutomator"
+directory="${HOME}/Desktop/nmapAutomator"
 
 ##number of ips to be scanned 
 
