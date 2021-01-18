@@ -14,7 +14,7 @@ Scan()
 {
      for ip in "${iplist[@]}"
 do
-    sudo bash $directory/nmapAutomator.sh $ip Quick
+    sudo bash $directory/nmapAutomator.sh $ip All
 
 done
 }  
